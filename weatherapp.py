@@ -2,7 +2,7 @@ import json
 import requests
 
 # Constants
-APPID = 'be700352b1df0d69b6a6ff7133fe96d0'
+APPID = '*****************************'  #Get your appid from openweathermap.org website
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?q={}'
 
 # Get user input for city name
